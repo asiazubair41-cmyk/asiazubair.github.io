@@ -1,0 +1,11 @@
+/* Add your custom CSS here */
+
+.section-selector-1 { background-color: var(--green-800);}
+header.theme-light { background-color: var(--green-300) }
+.section-selector-1.theme-light { background-color: var(--green-200) }
+nav.theme-light
+
+ {
+    background-color: var(--green-200);
+}
+footer.theme-light { background-color: var(--green-300) }
